@@ -2,6 +2,10 @@
 
 A modern interactive web app for creating, dragging, and managing stickers and pins on a customizable board.
 
+## 🚀 Demo
+
+https://sticker-snowy.vercel.app
+
 ## Features
 
 - **Drag & Drop:** Move stickers and pins anywhere on the board (powered by dnd-kit).
